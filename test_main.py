@@ -1,3 +1,3 @@
 def test_saludo():
 
-    assert saludo() == "Hola mundo"
+    assert saludo() == "Hola CI/CD!"
